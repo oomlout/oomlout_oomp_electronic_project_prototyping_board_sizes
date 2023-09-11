@@ -32,7 +32,7 @@ viewBox="0 0 20000 20000"
  </defs>
  <g id="Layer_x0020_1">
   <metadata id="CorelCorpID_0Corel-Layer"/>
-  <g id="_911161264">
+  <g id="_803418336">
    <path class="fil0 str0" d="M7800 11700l0 -3400c0,-276 224,-500 500,-500l3400 0c276,0 500,224 500,500l0 3400c0,276 -224,500 -500,500l-3400 0c-276,0 -500,-224 -500,-500z"/>
    <circle class="fil0 str0" cx="10000" cy="10000" r="300"/>
    <circle class="fil0 str0" cx="10000" cy="8500" r="300"/>
@@ -79,7 +79,7 @@ viewBox="0 0 20000 20000"
   <circle class="fil0 str0" cy="23750" r="150"/>
   <circle class="fil0 str0" cx="1500" cy="23750" r="150"/>
   <text x="-2807" y="15722"  class="fil0 str2 fnt0">plate_03_03</text>
-  <g id="_913576528">
+  <g id="_803392640">
    <rect class="fil0 str0" x="-411" y="21445" width="60" height="60"/>
    <rect class="fil0 str0" x="-157" y="21445" width="60" height="60"/>
    <rect class="fil0 str0" x="97" y="21445" width="60" height="60"/>
